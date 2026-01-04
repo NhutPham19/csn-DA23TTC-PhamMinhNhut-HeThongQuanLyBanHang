@@ -95,7 +95,7 @@ namespace XayDung_HeThongQuanLyBanHang
                 }
                 else
                 {
-                    MessageBox.Show("Thêm thất bại! Có thể do lỗi kết nối hoặc dữ liệu.", "Lỗi", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    MessageBox.Show("Thêm thất bại! Không thể thêm sản phẩm giống nhau.", "Lỗi", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 }
             }
             catch (Exception ex)

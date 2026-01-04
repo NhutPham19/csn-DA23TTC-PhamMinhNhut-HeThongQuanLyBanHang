@@ -3,36 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\DoAnCoSoNganh\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F969EB48-A0A2-4345-BCAA-F099517CCAC9}|XayDung_HeThongQuanLyBanHang\\XayDung_HeThongQuanLyBanHang.csproj|c:\\users\\admin\\source\\repos\\doancosonganh\\xaydung_hethongquanlybanhang\\fmlichsudonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F969EB48-A0A2-4345-BCAA-F099517CCAC9}|XayDung_HeThongQuanLyBanHang\\XayDung_HeThongQuanLyBanHang.csproj|solutionrelative:xaydung_hethongquanlybanhang\\fmlichsudonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F969EB48-A0A2-4345-BCAA-F099517CCAC9}|XayDung_HeThongQuanLyBanHang\\XayDung_HeThongQuanLyBanHang.csproj|c:\\users\\admin\\source\\repos\\doancosonganh\\xaydung_hethongquanlybanhang\\xulykhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F969EB48-A0A2-4345-BCAA-F099517CCAC9}|XayDung_HeThongQuanLyBanHang\\XayDung_HeThongQuanLyBanHang.csproj|solutionrelative:xaydung_hethongquanlybanhang\\xulykhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F969EB48-A0A2-4345-BCAA-F099517CCAC9}|XayDung_HeThongQuanLyBanHang\\XayDung_HeThongQuanLyBanHang.csproj|c:\\users\\admin\\source\\repos\\doancosonganh\\xaydung_hethongquanlybanhang\\fmlichsudonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F969EB48-A0A2-4345-BCAA-F099517CCAC9}|XayDung_HeThongQuanLyBanHang\\XayDung_HeThongQuanLyBanHang.csproj|solutionrelative:xaydung_hethongquanlybanhang\\fmlichsudonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{F969EB48-A0A2-4345-BCAA-F099517CCAC9}|XayDung_HeThongQuanLyBanHang\\XayDung_HeThongQuanLyBanHang.csproj|C:\\Users\\Admin\\source\\repos\\DoAnCoSoNganh\\xaydung_hethongquanlybanhang\\xulysanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F969EB48-A0A2-4345-BCAA-F099517CCAC9}|XayDung_HeThongQuanLyBanHang\\XayDung_HeThongQuanLyBanHang.csproj|solutionrelative:xaydung_hethongquanlybanhang\\xulysanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F969EB48-A0A2-4345-BCAA-F099517CCAC9}|XayDung_HeThongQuanLyBanHang\\XayDung_HeThongQuanLyBanHang.csproj|c:\\users\\admin\\source\\repos\\doancosonganh\\xaydung_hethongquanlybanhang\\frmbanhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F969EB48-A0A2-4345-BCAA-F099517CCAC9}|XayDung_HeThongQuanLyBanHang\\XayDung_HeThongQuanLyBanHang.csproj|solutionrelative:xaydung_hethongquanlybanhang\\frmbanhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F969EB48-A0A2-4345-BCAA-F099517CCAC9}|XayDung_HeThongQuanLyBanHang\\XayDung_HeThongQuanLyBanHang.csproj|c:\\users\\admin\\source\\repos\\doancosonganh\\xaydung_hethongquanlybanhang\\frmbanhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F969EB48-A0A2-4345-BCAA-F099517CCAC9}|XayDung_HeThongQuanLyBanHang\\XayDung_HeThongQuanLyBanHang.csproj|solutionrelative:xaydung_hethongquanlybanhang\\frmbanhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F969EB48-A0A2-4345-BCAA-F099517CCAC9}|XayDung_HeThongQuanLyBanHang\\XayDung_HeThongQuanLyBanHang.csproj|c:\\users\\admin\\source\\repos\\doancosonganh\\xaydung_hethongquanlybanhang\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F969EB48-A0A2-4345-BCAA-F099517CCAC9}|XayDung_HeThongQuanLyBanHang\\XayDung_HeThongQuanLyBanHang.csproj|solutionrelative:xaydung_hethongquanlybanhang\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F969EB48-A0A2-4345-BCAA-F099517CCAC9}|XayDung_HeThongQuanLyBanHang\\XayDung_HeThongQuanLyBanHang.csproj|c:\\users\\admin\\source\\repos\\doancosonganh\\xaydung_hethongquanlybanhang\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F969EB48-A0A2-4345-BCAA-F099517CCAC9}|XayDung_HeThongQuanLyBanHang\\XayDung_HeThongQuanLyBanHang.csproj|solutionrelative:xaydung_hethongquanlybanhang\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F969EB48-A0A2-4345-BCAA-F099517CCAC9}|XayDung_HeThongQuanLyBanHang\\XayDung_HeThongQuanLyBanHang.csproj|c:\\users\\admin\\source\\repos\\doancosonganh\\xaydung_hethongquanlybanhang\\frmdoimatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F969EB48-A0A2-4345-BCAA-F099517CCAC9}|XayDung_HeThongQuanLyBanHang\\XayDung_HeThongQuanLyBanHang.csproj|solutionrelative:xaydung_hethongquanlybanhang\\frmdoimatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F969EB48-A0A2-4345-BCAA-F099517CCAC9}|XayDung_HeThongQuanLyBanHang\\XayDung_HeThongQuanLyBanHang.csproj|c:\\users\\admin\\source\\repos\\doancosonganh\\xaydung_hethongquanlybanhang\\frmdoimatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F969EB48-A0A2-4345-BCAA-F099517CCAC9}|XayDung_HeThongQuanLyBanHang\\XayDung_HeThongQuanLyBanHang.csproj|solutionrelative:xaydung_hethongquanlybanhang\\frmdoimatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{F969EB48-A0A2-4345-BCAA-F099517CCAC9}|XayDung_HeThongQuanLyBanHang\\XayDung_HeThongQuanLyBanHang.csproj|C:\\Users\\Admin\\source\\repos\\DoAnCoSoNganh\\xaydung_hethongquanlybanhang\\frmquanlisanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F969EB48-A0A2-4345-BCAA-F099517CCAC9}|XayDung_HeThongQuanLyBanHang\\XayDung_HeThongQuanLyBanHang.csproj|solutionrelative:xaydung_hethongquanlybanhang\\frmquanlisanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -55,102 +35,39 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "fmLichSuDonHang.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DoAnCoSoNganh\\XayDung_HeThongQuanLyBanHang\\fmLichSuDonHang.cs",
-              "RelativeDocumentMoniker": "XayDung_HeThongQuanLyBanHang\\fmLichSuDonHang.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DoAnCoSoNganh\\XayDung_HeThongQuanLyBanHang\\fmLichSuDonHang.cs",
-              "RelativeToolTip": "XayDung_HeThongQuanLyBanHang\\fmLichSuDonHang.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAAuwAsAAAABAAAAAAAAAA==",
+              "Title": "XuLyKhachHang.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DoAnCoSoNganh\\XayDung_HeThongQuanLyBanHang\\XuLyKhachHang.cs",
+              "RelativeDocumentMoniker": "XayDung_HeThongQuanLyBanHang\\XuLyKhachHang.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DoAnCoSoNganh\\XayDung_HeThongQuanLyBanHang\\XuLyKhachHang.cs*",
+              "RelativeToolTip": "XayDung_HeThongQuanLyBanHang\\XuLyKhachHang.cs*",
+              "ViewState": "AgIAABgAAAAAAAAAAAAUwCgAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-31T15:31:33.917Z",
+              "WhenOpened": "2026-01-03T14:20:31.707Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "fmLichSuDonHang.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DoAnCoSoNganh\\XayDung_HeThongQuanLyBanHang\\fmLichSuDonHang.cs",
-              "RelativeDocumentMoniker": "XayDung_HeThongQuanLyBanHang\\fmLichSuDonHang.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DoAnCoSoNganh\\XayDung_HeThongQuanLyBanHang\\fmLichSuDonHang.cs [Design]",
-              "RelativeToolTip": "XayDung_HeThongQuanLyBanHang\\fmLichSuDonHang.cs [Design]",
+              "Title": "XuLySanPham.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DoAnCoSoNganh\\XayDung_HeThongQuanLyBanHang\\XuLySanPham.cs",
+              "RelativeDocumentMoniker": "XayDung_HeThongQuanLyBanHang\\XuLySanPham.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DoAnCoSoNganh\\XayDung_HeThongQuanLyBanHang\\XuLySanPham.cs",
+              "RelativeToolTip": "XayDung_HeThongQuanLyBanHang\\XuLySanPham.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAcwBgAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-31T15:31:32.107Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-01-03T13:49:32.916Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "frmBanHang.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DoAnCoSoNganh\\XayDung_HeThongQuanLyBanHang\\frmBanHang.cs",
-              "RelativeDocumentMoniker": "XayDung_HeThongQuanLyBanHang\\frmBanHang.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DoAnCoSoNganh\\XayDung_HeThongQuanLyBanHang\\frmBanHang.cs",
-              "RelativeToolTip": "XayDung_HeThongQuanLyBanHang\\frmBanHang.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAowDsAAAAdAAAAAAAAAA==",
+              "Title": "frmQuanLiSanPham.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DoAnCoSoNganh\\XayDung_HeThongQuanLyBanHang\\frmQuanLiSanPham.cs",
+              "RelativeDocumentMoniker": "XayDung_HeThongQuanLyBanHang\\frmQuanLiSanPham.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DoAnCoSoNganh\\XayDung_HeThongQuanLyBanHang\\frmQuanLiSanPham.cs",
+              "RelativeToolTip": "XayDung_HeThongQuanLyBanHang\\frmQuanLiSanPham.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAkwGgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-31T15:31:08.257Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "frmBanHang.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DoAnCoSoNganh\\XayDung_HeThongQuanLyBanHang\\frmBanHang.cs",
-              "RelativeDocumentMoniker": "XayDung_HeThongQuanLyBanHang\\frmBanHang.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DoAnCoSoNganh\\XayDung_HeThongQuanLyBanHang\\frmBanHang.cs [Design]",
-              "RelativeToolTip": "XayDung_HeThongQuanLyBanHang\\frmBanHang.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-31T15:31:06.379Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "frmDangNhap.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DoAnCoSoNganh\\XayDung_HeThongQuanLyBanHang\\frmDangNhap.cs",
-              "RelativeDocumentMoniker": "XayDung_HeThongQuanLyBanHang\\frmDangNhap.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DoAnCoSoNganh\\XayDung_HeThongQuanLyBanHang\\frmDangNhap.cs",
-              "RelativeToolTip": "XayDung_HeThongQuanLyBanHang\\frmDangNhap.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-31T15:31:02.25Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "frmDangNhap.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DoAnCoSoNganh\\XayDung_HeThongQuanLyBanHang\\frmDangNhap.cs",
-              "RelativeDocumentMoniker": "XayDung_HeThongQuanLyBanHang\\frmDangNhap.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DoAnCoSoNganh\\XayDung_HeThongQuanLyBanHang\\frmDangNhap.cs [Design]",
-              "RelativeToolTip": "XayDung_HeThongQuanLyBanHang\\frmDangNhap.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-31T15:31:00.392Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "frmDoiMatKhau.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DoAnCoSoNganh\\XayDung_HeThongQuanLyBanHang\\frmDoiMatKhau.cs",
-              "RelativeDocumentMoniker": "XayDung_HeThongQuanLyBanHang\\frmDoiMatKhau.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DoAnCoSoNganh\\XayDung_HeThongQuanLyBanHang\\frmDoiMatKhau.cs",
-              "RelativeToolTip": "XayDung_HeThongQuanLyBanHang\\frmDoiMatKhau.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAiwBQAAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-31T15:30:53.614Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "frmDoiMatKhau.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DoAnCoSoNganh\\XayDung_HeThongQuanLyBanHang\\frmDoiMatKhau.cs",
-              "RelativeDocumentMoniker": "XayDung_HeThongQuanLyBanHang\\frmDoiMatKhau.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DoAnCoSoNganh\\XayDung_HeThongQuanLyBanHang\\frmDoiMatKhau.cs [Design]",
-              "RelativeToolTip": "XayDung_HeThongQuanLyBanHang\\frmDoiMatKhau.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-31T15:30:43.636Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-01-03T13:20:34.158Z"
             }
           ]
         }

@@ -18,7 +18,7 @@ namespace XayDung_HeThongQuanLyBanHang
 
         public bool ThemKhachHang(string tenKH, string sdt, string diaChi)
         {
-            string sqlKiemTra = "SELECT * FROM KHACHHANG WHERE SoDienThoai = '" + sdt + "'";
+            string sqlKiemTra = "SELECT * FROM KHACHHANG WHERE SoDienThoai = '" + sdt + "' AND DaXoa = 0";
             System.Data.DataTable dt = ketnoi.DocDuLieu(sqlKiemTra);
 
             if (dt.Rows.Count > 0)
